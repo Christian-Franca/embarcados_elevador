@@ -16,17 +16,4 @@ int main(int argc, char** argv) {
     return (EXIT_SUCCESS);
 }
 
-sdsa
-
-
-teste 
-teste dsadsadasdasd
-teste
-dfsdfsdfsdf
-sdfsd
-sdfsdfsdf
-s
-df
-sdf
-s
-        
+teste teste
